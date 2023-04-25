@@ -24,3 +24,9 @@ The project started with planning and research to understand the client's requir
 The product detail page includes a larger product image, a detailed description, and an option to add the product to the cart. The cart functionality is implemented using JavaScript and allows customers to add and remove products as well as adjust the quantity of each product. The checkout process involves collecting customer information, displaying the order summary, and processing the payment through a secure payment gateway.
 
 The website is designed to be responsive, ensuring that it can adapt to different screen sizes and devices. Best practices were followed throughout the development process, including the use of semantic HTML, proper code commenting, and testing for cross-browser compatibility and mobile responsiveness. Finally, the website was deployed using GitHub Pages, making it accessible to the public.
+
+###Desktop Image
+![image](https://user-images.githubusercontent.com/66858598/234369051-a90993f6-c8e8-4103-9fdd-a6f2f7a3ccd3.png)
+###Mobile Image
+![image](https://user-images.githubusercontent.com/66858598/234369099-1fc53827-9914-4e01-a12f-f0c1140f743a.png)
+
